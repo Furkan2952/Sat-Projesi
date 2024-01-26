@@ -1,0 +1,735 @@
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_login.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\MySql.Data.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_admin.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_personel.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_ozel_gun.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_izin.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_personel.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_calisma_saatleri.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_vardiyalar.resources
+C:\Users\omera\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_mesailer.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_admin.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_calisma_saatleri.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_izin.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_mesailer.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_vardiyalar.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_ozel_gun.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_personel.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_login.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_personel.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\Softepen\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.manifest
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.application
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_admin.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_calisma_saatleri.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_izin.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_mesailer.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_vardiyalar.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_ozel_gun.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_personel.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_login.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_personel.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe.manifest
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.application
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\zeynep\Desktop\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.manifest
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.application
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_admin.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_calisma_saatleri.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_izin.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_mesailer.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_vardiyalar.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_ozel_gun.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_adm_personel.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_login.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frm_personel.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe.manifest
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.application
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyon\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyonetici.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmycalismasaati.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyizin.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmymesai.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyvardiya.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyozelgun.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmypersonel.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmgiris.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmpersonel.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyonetici.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmycalismasaati.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyizin.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmymesai.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyvardiya.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyozelgun.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmypersonel.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmgiris.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmpersonel.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\asus\OneDrive\Masaüstü\PersonelOtomasyonnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyonetici.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmycalismasaati.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyizin.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmymesai.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyvardiya.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyozelgun.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmypersonel.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmgiris.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmpersonel.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\yusuf\OneDrive\Masaüstü\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyonetici.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmycalismasaati.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyizin.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmymesai.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyvardiya.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyozelgun.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmypersonel.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmgiris.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmpersonel.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\asus\OneDrive\Masaüstü\Yeni klasör (2)tr\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe.config
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\PersonelOtomasyon.pdb
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.barcodes.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.commons.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.forms.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.io.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.kernel.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.layout.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.pdfa.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.sign.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.svg.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itextsharp.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ValueTuple.dll
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.barcodes.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.bouncy-castle-connector.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.commons.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.forms.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.io.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.kernel.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.layout.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.pdfa.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.sign.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.styledxmlparser.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itext.svg.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\itextsharp.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\Newtonsoft.Json.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\bin\Debug\System.ValueTuple.xml
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyonetici.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmycalismasaati.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyizin.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmymesai.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyvardiya.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmyozelgun.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmypersonel.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmgiris.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.frmpersonel.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.Properties.Resources.resources
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.GenerateResource.cache
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.csproj.CopyComplete
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.exe
+C:\Users\asus\OneDrive\Masaüstü\Proje-015\PersonelOtomasyonnnn\PersonelOtomasyon\obj\Debug\PersonelOtomasyon.pdb
