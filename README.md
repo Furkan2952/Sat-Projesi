@@ -1,0 +1,1 @@
+Sistem analizi için paylaşılmıştır.
